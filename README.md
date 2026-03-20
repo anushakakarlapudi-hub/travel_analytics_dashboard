@@ -55,10 +55,8 @@ The dashboard provides an interactive view of key metrics:
 ---
 
 ## 📸 Dashboard Preview
-*(Add your Power BI screenshots here)*
 
-Example:
-![Dashboard Screenshot]
+![Dashboard Screenshot] https://github.com/anushakakarlapudi-hub/travel_analytics_dashboard/blob/main/PowerBi_dashboard_overview.png
 
 ---
 
