@@ -48,7 +48,7 @@ Performed data analysis using SQL to uncover patterns and trends:
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/anushakakarlapudi-hub/travel_analytics_dashboard/blob/main/PowerBi_dashboard_overview.png)
 
 ---
 
